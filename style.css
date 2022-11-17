@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.markerDir0 {
+  background-image: url("bus-solid.svg");
+  background-size: cover;
+  width: 25px;
+  height: 25px;
+  /* border-radius: 50%; */
+  cursor: pointer;
+  filter: invert(7%) sepia(100%) saturate(7463%) hue-rotate(248deg) brightness(110%) contrast(143%);
+}
+
+.markerDir1 {
+  background-image: url("bus-solid.svg");
+  background-size: cover;
+  width: 25px;
+  height: 25px;
+  /* border-radius: 50%; */
+  cursor: pointer;
+  filter: invert(11%) sepia(89%) saturate(6736%) hue-rotate(7deg) brightness(105%) contrast(120%);
+}
+
+.mapboxgl-popup {
+  max-width: 200px;
+}
+
+.mapboxgl-popup-content {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
