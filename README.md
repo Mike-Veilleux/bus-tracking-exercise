@@ -23,11 +23,11 @@
   There are many upgrades possible for this project. Here's a few on my mind:
   
 -Features
-  - Select different routes
-  - Show bus stop on route 
+	- Select different routes
+	- Show bus stop on route 
 
 - Architecture
-  - Extend class inheritance for bus fleet and routes 
+	- Extend class inheritance for bus fleet and routes 
    
   ## Licensing
   This project is under MIT license. Use it as you wish!
