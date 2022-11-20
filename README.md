@@ -7,6 +7,7 @@
   ![docs/screenshots](github-bus-tracking-001.jpg)
   ![bus-tracking](https://github.com/mike-veilleux/bus-tracking-exercise/docs/screenshots/github-bus-tracking-001.jpg)
   
+
 ## Description
 A live bus tracking system using MapboxGL and the MBTA public API.  This exercise targets a few skills building
 - Dynamically create HTML elements
