@@ -11,21 +11,19 @@ body {
 }
 
 .markerDir0 {
-  background-image: url("bus-solid.svg");
+  background-image: url("images/bus-solid.svg");
   background-size: cover;
   width: 25px;
   height: 25px;
-  /* border-radius: 50%; */
   cursor: pointer;
   filter: invert(7%) sepia(100%) saturate(7463%) hue-rotate(248deg) brightness(110%) contrast(143%);
 }
 
 .markerDir1 {
-  background-image: url("bus-solid.svg");
+  background-image: url("images/bus-solid.svg");
   background-size: cover;
   width: 25px;
   height: 25px;
-  /* border-radius: 50%; */
   cursor: pointer;
   filter: invert(11%) sepia(89%) saturate(6736%) hue-rotate(7deg) brightness(105%) contrast(120%);
 }

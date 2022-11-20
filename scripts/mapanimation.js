@@ -1,7 +1,7 @@
 import { locations, getLngLat } from "./locations.js";
 import { Bus } from "./Bus.js"
 
-const busIcon = 'bus-solid.svg';
+const busIcon = 'images/bus-solid.svg';
 let map;
 let busFleet = [];
 
