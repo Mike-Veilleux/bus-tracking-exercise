@@ -5,7 +5,7 @@
   This repo contains the bus tracking exercise from my MIT Full Stack development course.
   
   ![docs/screenshots](github-bus-tracking-001.jpg)
-  ![bus-tracking](https://github.com/mike-veilleux/bus-tracking-exercise/docs/screenshots/github-bus-tracking-001.jpg)
+  ![bus-tracking](https://github.com/mike-veilleux/bus-tracking-exercise/docs/screenshots/github-bus-tracking-001.jpg?raw=true)
   
 
 ## Description
