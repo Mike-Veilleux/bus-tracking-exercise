@@ -22,10 +22,9 @@
   ## Roadmap
   There are many upgrades possible for this project. Here's a few on my mind:
   
--Features
+- Features
 	- Select different routes
-	- Show bus stop on route 
-
+	- Show bus stop on route
 - Architecture
 	- Extend class inheritance for bus fleet and routes 
    
