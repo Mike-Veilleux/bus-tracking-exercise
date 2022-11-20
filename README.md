@@ -5,7 +5,7 @@
   This repo contains the bus tracking exercise from my MIT Full Stack development course.
   
   ## Description
-  A live bus teaching system using MapboxGL and the MBTA public API. This exercise targets a few skills building
+ A live bus teaching system using MapboxGL and the MBTA public API.   This exercise targets a few skills building
   - Dynamically create HTML elements
   - Moving mapbox markers around based on Json data
   - Fetching Json data from a public API
@@ -13,6 +13,8 @@
 	- update bus presence on route
 	- update bus direction
   
+I choose to make use of classes since MapboxGL is architected this way.  This gave me a few advantages such as being able to store the maker and the Json data in the same object. Make use of a constructor for object creation. Take advantage of method chaining.  Encapsulate all related variables and methods in one object with a public/private accessor.
+
   ## Install
   Clone this repo and launch the index.html file in your browser.
   
@@ -30,5 +32,3 @@
    
   ## Licensing
   This project is under MIT license. Use it as you wish!
-
-
