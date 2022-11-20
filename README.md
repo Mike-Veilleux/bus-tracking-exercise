@@ -1,11 +1,11 @@
-# bus-tracking-exercise
+# Bus Tracking Exercise
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   
   This repo contains the bus tracking exercise from my MIT Full Stack development course.
   
   ## Description
- A live bus teaching system using MapboxGL and the MBTA public API.   This exercise targets a few skills building
+ A live bus tracking system using MapboxGL and the MBTA public API.  This exercise targets a few skills building
   - Dynamically create HTML elements
   - Moving mapbox markers around based on Json data
   - Fetching Json data from a public API
