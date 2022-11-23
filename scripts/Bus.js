@@ -21,11 +21,11 @@ class Bus {
         this.#_previousDirection = this.#_json.attributes.direction_id;
 
 
-        // create a HTML element for each feature
+        // create a HTML element 
         const divElement = document.createElement('div');
         divElement.className = `${this.#_json.attributes.direction_id === 0 ? 'markerDir0' : 'markerDir1'}`;
         divElement.id = this.#_json.id;
-        // make a marker for each feature and add it to the map
+        // make a marker and add it to the map
         const newMarker = new mapboxgl.Marker(divElement)
             .setLngLat([this.#_json.attributes.longitude, this.#_json.attributes.latitude])
             .setPopup(new mapboxgl.Popup({ offset: 25 })
