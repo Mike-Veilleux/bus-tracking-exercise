@@ -34,4 +34,4 @@ There are many upgrades possible for this project. Here's a few on my mind:
 	- Extend class inheritance for bus fleet and routes 
    
 ## Licensing
-This project is under MIT license. Use it as you wish!
+This project is under MIT license. Read more **[here](https://github.com/Mike-Veilleux/bus-tracking-exercise/blob/main/LICENSE)**
