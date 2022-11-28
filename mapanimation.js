@@ -1,6 +1,6 @@
-import { Bus } from "./Bus.js"
-import { BusStop } from "./BusStop.js"
-import { POI } from "./Poi.js"
+import { Bus } from "./models/Bus.js"
+import { BusStop } from "./models/BusStop.js"
+import { POI } from "./models/Poi.js"
 
 let map;
 const mitCoords = [-71.091542, 42.358862];
